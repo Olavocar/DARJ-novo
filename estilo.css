@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+#topo{
+overflow: hidden;
+background-color: black;
+}
+
+#logo{
+width:200px;
+height:200px;
+float: left;
+background-color:red;
+}
+
+#menu{
+width:1000px;
+height:100px;
+float:left;
+background-color:purple;
+}
+
+#banner{
+width:1000px;
+height:100px;
+float:left;
+background-color:yellow;
+}
+
+#redes{
+width:200px;
+height:100px;
+float: right;
+background-color:lightcoral;
+}
+
+#conteudo{
+display: flex;
+
+}
+
+#img{
+width:200px;
+height:600px;
+overflow:hidden;
+background-color:orange;
+}
+
+#espaco{
+width:800px;
+height:600px;
+display:flex;
+background-color:green;
+}
